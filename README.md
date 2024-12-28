@@ -1,3 +1,2 @@
-# workintech-js-tas-kagit-makas
+# Workintech JS Taş Kağıt Makas
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ersinonline/workintech-js-tas-kagit-makas)
